@@ -1,0 +1,6 @@
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\bin\Debug\accounting drill.exe.config
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\bin\Debug\accounting drill.exe
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\bin\Debug\accounting drill.pdb
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\obj\Debug\accounting drill.csproj.CoreCompileInputs.cache
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\obj\Debug\accounting drill.exe
+C:\Users\zelda\Desktop\visual studio projects\accounting drill\accounting drill\obj\Debug\accounting drill.pdb
