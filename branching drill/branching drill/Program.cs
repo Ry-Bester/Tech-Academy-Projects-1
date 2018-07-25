@@ -17,7 +17,7 @@ namespace branching_drill
             if (wei >= 50) 
             {
                 Console.WriteLine("Package is to heavy to be shipped");
-                
+                return;
             }
             
             else if (wei < 50)
@@ -36,6 +36,9 @@ namespace branching_drill
 
             {
                 Console.WriteLine("Package is to big to be shiped.");
+                Console.ReadLine();
+                return;
+                
             }
             
             else if (Dim < 50) 
