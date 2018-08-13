@@ -16,9 +16,11 @@ namespace loop_drill_pt_2
             bool correct = number == 23;
 
             do
+           
             {
-
+                
                 switch (number)
+
                 {
                     case 1:
                         Console.WriteLine("you guessed one! but thats not the right one.");
